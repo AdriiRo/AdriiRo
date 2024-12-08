@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Adrian Robles</h1>
-<h3 align="center">A student of Higher Degree in Multiplatform Application Development</h3>
 
-<img src="https://imgur.com/a/OAnPUns" alt="Main"/>
+
+<img src="KlgDQP3 - Imgur.png" alt="Main" width = "700" height = "350"/>
+<h3 align="center">A student of Higher Degree in Multiplatform Application Development</h3>
 
 - 🌱 I’m currently learning **programming**
 
