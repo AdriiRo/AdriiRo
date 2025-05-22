@@ -24,9 +24,9 @@
   <a href="https://www.linkedin.com/in/adri%C3%A1n-robles-ortega-307670256/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/adrii.r_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
+  <a href="mailto:roblesadrian03@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
-  <i>¿Buscas colaboración en un proyecto móvil o multiplataforma? ¡Estoy abierto a nuevas oportunidades!</i>
+  <i>¿Colaboramos en un proyecto móvil o multiplataforma? ¡Estoy abierto a nuevas oportunidades!</i>
 </p>
