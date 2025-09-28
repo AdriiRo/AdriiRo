@@ -1,7 +1,7 @@
 <img src="KlgDQP3 - Imgur.png" alt="Main" width="700" height="350"/>
 
 <h3 align="center">¡Hola! Soy Adrián Robles Ortega</h3>
-<h4 align="center">Apasionado por el desarrollo de apps móviles, actualmente estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.</h4>
+<h4 align="center">Apasionado por el desarrollo de apps móviles, actualmente Técnico superior en Desarrollo de Aplicaciones Multiplataforma.</h4>
 
 <p align="center">
   <em>
