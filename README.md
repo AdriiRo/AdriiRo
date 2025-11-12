@@ -25,7 +25,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:roblesadrian03@gmail.com" target="_blank">
-    <img align="center" src="https://www.svgrepo.com/show/452213/mail-white.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="30" width="40" style="filter: invert(1);" />
   </a>
 </p>
 
