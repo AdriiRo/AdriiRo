@@ -19,13 +19,23 @@
 
 ---
 
+### 👁️‍🗨️ Proyectos Destacados
+| Proyecto | Descripción | Tecnologías |
+|----------|------------|------------|
+| 🟩 Kolbe (Privada) | App de control horario para trabajadores de un colegio (Colegio Internacional Kolbe, Villanueva de la Cañada (Madrid, España)) | Flutter, PostgreSQL, Supabase, API REST |
+| 🟩 Krun | App fin-tech diseñada para gestionar las finanzas personales | Flutter, Firebase, API REST |
+
+
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/adri%C3%A1n-robles-ortega-307670256/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
+O si prefieres... 
+  
   <a href="mailto:roblesadrian03@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="30" width="40" style="filter: invert(1);" />
+    ¡Mándame un mail!
   </a>
 </p>
 
