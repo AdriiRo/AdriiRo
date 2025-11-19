@@ -14,8 +14,7 @@
 - 🚀 Enfocado en el desarrollo de aplicaciones móviles con <b>Flutter</b>, <b>Android</b> y <b>Kotlin</b>.
 - 🔥 Experiencia integrando <b>Firebase</b> para backend y servicios en tiempo real.
 - 💡 También manejo bases de datos como <b>PostgreSQL</b> y desarrollo multiplataforma.
-- 🌱 Actualmente aprendiendo y perfeccionando mis habilidades en programación móvil.
-- 👨‍💻 Todos mis proyectos están disponibles en este perfil de GitHub.
+- 🌱 Actualmente aprendiendo y perfeccionando mis habilidades en programación móvil, pero abierto a oportunidades laborales.
 
 ---
 
